@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Sigmar&display=swap");
+* {
+  font-family: "Sigmar", cursive;
+  color: rgb(255, 255, 255);
+}
+
+body {
+  background: url("Doggo.jpg") no-repeat;
+  background-size: cover;
+}
+
+h2 {
+  position: absolute;
+  top: 200px;
+  left: 735px;
+  font-size: 2em;
+}
+
+body iframe {
+  border-radius: 10px;
+  position: absolute;
+  top: 500px;
+  left: 600px;
+  height: 300px;
+  width: 600px;
+}
